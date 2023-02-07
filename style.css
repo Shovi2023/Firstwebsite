@@ -1,0 +1,25 @@
+body{
+    background-color: brown;
+}
+
+header{
+    background-color: rgb(178, 165, 110);
+    height:120px;
+    width: 100%;
+}
+.featured-books{
+    background-color: skyblue;
+    height: 80%;
+}
+
+.new-releases{
+    background-color: slateblue;
+    height: 200px;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.release{
+    border: 2px soild black;
+    height: 100%;
+
+}
